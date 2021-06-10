@@ -11,6 +11,6 @@ My name's Eric Goebelbecker. I'm a developer, systems engineer, and writer.
 
 My current position is what is what most would call DevOps for a prop trading firm. I'm involved in a lot of Python scripting, build and deploy, and package managment.
 
-I also write blog posts for Saas firms via the [HitSubscribe](https://hitsubscribe.com). Many of my repos here are sample code for posts I've written over the past few years.
+I also write blog posts for Saas firms via [HitSubscribe](https://hitsubscribe.com). Many of my repos here are sample code for posts I've written over the past few years.
 
 
