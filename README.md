@@ -10,5 +10,6 @@ My name's Eric Goebelbecker. I'm a developer, systems engineer, and writer.
 
 I'm a writer and DevRel at [HitSubscribe](https://hitsubscribe.com). Many of my repos here are sample code for posts I've written over the past few years.
  
-You can find my tech blog [here](https://ericgoebelbecker.com) and Substack [here](https://ericgoebelbecker.substack.com)
+You can find my personal page [here](https://ericgoebelbecker.com) and Substack [here](https://ericgoebelbecker.substack.com)
 
+Order my first novel [here.](https://books2read.com/gwotwshadowspast)
